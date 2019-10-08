@@ -4,6 +4,7 @@ class Calculator{
     public void subtract() {
         System.out.println("-");
         System.out.println("Test");
+        System.out.println("WOW");
     }
 
     public int renter(int lånesum, int terminBeløp) {
