@@ -1,0 +1,4 @@
+[submodule "Concouse-demo-ci"]
+	path = Concouse-demo-ci
+	url = https://github.com/MarkusKNyland/Concouse-demo-ci
+	branch = master
